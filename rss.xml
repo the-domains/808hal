@@ -4,8 +4,15 @@
         <description><![CDATA[Harold at Large]]></description>
         <link>https://thegrid.ai/808hal/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 04:25:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2016 04:51:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/808hal/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Harold at Large]]></title>
+            <description><![CDATA[<article><h1>Harold at Large</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/147df266-107d-453c-85d3-1f0134e94852.jpg"></article>]]></description>
+            <link>https://thegrid.ai/808hal/harold-at-large/index.html</link>
+            <guid isPermaLink="false">10a9e5e6-793d-4d82-bcf5-c86caea059da</guid>
+            <pubDate>Mon, 21 Mar 2016 04:50:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Aloha, I am Harold Hulihe'e Campbell.  Realtor Associate at Island, REALTORS.  Welcome to my beta site using (The Grid AI)</p>]]></description>
@@ -19,13 +26,6 @@
             <link>http://www.zillow.com/homedetails/1720-Ala-Moana-Blvd-APT-204B-Honolulu-HI-96815/82507721_zpid/</link>
             <guid isPermaLink="false">1d243f01-fad2-4bc9-bba7-85e020a08545</guid>
             <pubDate>Mon, 21 Mar 2016 03:36:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Harold at Large]]></title>
-            <description><![CDATA[<article><h1>Harold at Large</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/147df266-107d-453c-85d3-1f0134e94852.jpg"></article>]]></description>
-            <link>https://thegrid.ai/808hal/harold-at-large/index.html</link>
-            <guid isPermaLink="false">10a9e5e6-793d-4d82-bcf5-c86caea059da</guid>
-            <pubDate>Mon, 21 Mar 2016 03:18:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
