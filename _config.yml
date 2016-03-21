@@ -1,0 +1,29 @@
+name: 808HAL
+favicon: null
+layout_spectrum: 0.9377852976322174
+typography_spectrum: 0.3331185702700168
+title: Harold at Large
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.31467225728556514
+  lightness: 0.5331257858779281
+  saturation: 0.08822554023936391
+  rhythmicContrast: 0.5920760496519506
+purpose: []
